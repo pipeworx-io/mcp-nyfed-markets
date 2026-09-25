@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/nyfed-markets",
+  "title": "Nyfed Markets",
+  "description": "New York Fed Markets Data APIs — markets.newyorkfed.org, keyless JSON, no",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/nyfed-markets",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-nyfed-markets",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/nyfed-markets/mcp"
+    }
+  ]
+}
