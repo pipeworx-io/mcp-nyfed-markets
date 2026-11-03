@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nyfed-markets",
   "title": "Nyfed Markets",
   "description": "New York Fed Markets Data APIs — markets.newyorkfed.org, keyless JSON, no auth wall.…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/nyfed-markets",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nyfed-markets",

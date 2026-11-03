@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nyfed-markets",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "New York Fed Markets Data APIs — markets.newyorkfed.org, keyless JSON, no auth wall. Operation-level and holdings-level Desk data: repo/reverse repo (ON RRP) auction results, securities lending operations, System Open Market Account (SOMA) portfolio holdings, the Desk's reference rates (SOFR, EFFR…",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nyfed-markets",
     "gatewaySlug": "nyfed-markets",
-    "sourceHash": "v1-e90e89e5ad0622a59f3fb021c7641083e2dd7a92ff13d720285074aa302f2ae4",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-14af1de55b92715ef06a28eeb1bea503624350df390b4b3dc9755c841ddab3e5",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }

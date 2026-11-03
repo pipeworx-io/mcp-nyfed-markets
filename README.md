@@ -2,7 +2,7 @@
 
 The New York Fed's Markets Data APIs — operation-level repo/reverse repo (ON RRP) auction results, securities lending operations, SOMA portfolio holdings, the Desk's reference rates (SOFR, EFFR, OBFR, TGCR, BGCR), and primary dealer survey statistics. This is the operation- and security-level data underneath FRED's daily rate aggregates, not a duplicate of them.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1856+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1867+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 ## Tools
 
@@ -78,7 +78,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1856+ data sources. The
+Both URLs reach the same gateway and the same 1867+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
